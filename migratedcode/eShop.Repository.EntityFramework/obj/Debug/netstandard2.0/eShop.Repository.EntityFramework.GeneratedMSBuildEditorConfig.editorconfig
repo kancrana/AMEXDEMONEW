@@ -1,0 +1,8 @@
+is_global = true
+build_property.RootNamespace = eShop.Repository.EntityFramework
+build_property.ProjectDir = c:\opt\app-root\data\710\5dc584bd-3e5e-4e8e-b59f-681e53a9135c\710-AMEXDEMONEW\eShop.Repository.EntityFramework\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 
